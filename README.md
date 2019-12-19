@@ -38,4 +38,4 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 
 [test.html](test.html)
 
-[test.md](test.md)
+[test2.md](test2.md)
